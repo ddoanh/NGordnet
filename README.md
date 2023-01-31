@@ -8,3 +8,4 @@
   - Implemented generic Abstract Data Structures in Java to analyze the hyponyms, relative popularity of words, categories & lengths of words over time using Zipf's law. Effectively utilized the semantic lexicon WordNet, Google's Ngram dataset and TimeSeries with an YearlyRecord to aid the NGordNet User Interface.
   - Used directed graphs to store entries from the WordNet dataset into ADTs to allow for rapid queries for hyponyms and hypernyms.
 
+![Screen Shot 2023-01-31 at 12 57 37 AM](https://user-images.githubusercontent.com/98563830/215714640-9733ec19-a2ad-4989-9b1c-89a424ec35da.png)
